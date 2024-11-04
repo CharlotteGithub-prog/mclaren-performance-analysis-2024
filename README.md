@@ -74,3 +74,5 @@ mclaren-performance-analysis-2024/
 ├── src/                         # Python scripts for additional data processing or utilities
 ├── requirements.txt             # Python dependencies
 └── README.md                    # Project readme
+
+# Subplot Visuals Inspired by "Miami GP 2024 - Data Summary" by Raúl García (https://medium.com/formula-one-forever/miami-gp-2024-data-summary-d83c75d769a5)
