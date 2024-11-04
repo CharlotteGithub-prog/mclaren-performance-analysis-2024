@@ -13,13 +13,12 @@ The aim of this project is to analyse McLaren's performance data across races, i
 
 ## Table of Contents
 
-- [Installation](#installation)
-- [Data Sources](#data-sources)
-- [Project Structure](#project-structure)
-- [Usage](#usage)
-- [Analysis Focus Areas](#analysis-focus-areas)
-- [Contributing](#contributing)
-- [License](#license)
+- [mclaren-performance-analysis-2024](#mclaren-performance-analysis-2024)
+  - [Overview](#overview)
+  - [Table of Contents](#table-of-contents)
+  - [Installation](#installation)
+  - [Data Sources](#data-sources)
+  - [Project Structure](#project-structure)
 
 ---
 
@@ -75,4 +74,3 @@ mclaren-performance-analysis-2024/
 ├── requirements.txt             # Python dependencies
 └── README.md                    # Project readme
 
-# Subplot Visuals Inspired by "Miami GP 2024 - Data Summary" by Raúl García (https://medium.com/formula-one-forever/miami-gp-2024-data-summary-d83c75d769a5)
