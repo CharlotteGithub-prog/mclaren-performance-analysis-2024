@@ -7,7 +7,7 @@
 
 This repository contains an in-depth performance analysis of McLaren Racing’s 2024 Formula 1 season, focusing on areas to inform and enhance car development. The analysis is conducted using Python and Jupyter Notebooks (`.ipynb`), leveraging the `fastf1` library for telemetry, lap data, and event information.
 
-The aim of this project is to analyse McLaren's performance data across races, identifying key insights in lap times, tire usage, aerodynamics, and vehicle dynamics to support data-driven improvements in car development and strategy.
+The aim of this project is to analyse McLaren's performance data across races, identifying key insights in lap times, tyre usage (future), track characteristics, aerodynamics (future), and vehicle dynamics to support data-driven improvements in car development and strategy.
 
 ---
 
