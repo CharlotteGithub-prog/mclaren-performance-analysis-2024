@@ -64,14 +64,14 @@ This project uses data provided by the `fastf1` Python library, which fetches re
 
 ```plaintext
 mclaren-performance-analysis-2024/
-├── cache                                   # fastf1 season data cache (set up locally as in .gitignore)
+├── cache                                   # fastf1 season data cache (set up locally)
 ├── venv/                                   # virtual project environment
 │   └── ...
 ├── plots/                                  # Directory of individual analysis types
-│   ├── plot_speed-heatmap_driver.ipynb     # Jupyter notebook comparing season speeds by driver
-│   ├── plot_speed-heatmap_team.ipynb       # Jupyter notebook comparing season speeds by team
-│   ├── 03_telemetry_analysis.ipynb         # Jupyter notebook comparing telemetry data by driver
-├── .gitignore                              # Intentionally untracked files that Git should ignore
+│   ├── plot_speed-heatmap_driver.ipynb     # Jupyter Notebook, season speeds by driver
+│   ├── plot_speed-heatmap_team.ipynb       # Jupyter Notebook, season speeds by team
+│   ├── 03_telemetry_analysis.ipynb         # Jupyter Notebook, telemetry data by driver
+├── .gitignore                              # Intentionally untracked files
 ├── 2024_season_overview.ipynb              # Overview notebook for intial analysis
 ├── requirements.txt                        # Python dependencies 
 └── README.md                               # Project readme
