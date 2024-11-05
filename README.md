@@ -73,4 +73,3 @@ mclaren-performance-analysis-2024/
 ├── src/                         # Python scripts for additional data processing or utilities
 ├── requirements.txt             # Python dependencies
 └── README.md                    # Project readme
-
