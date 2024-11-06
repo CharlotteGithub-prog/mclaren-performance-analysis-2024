@@ -33,13 +33,15 @@ As such, moving into the triple header the focus must be on optimising the aerod
 
 <img src="visualisations/LasVegas_TrackSpeed.png" alt="Las Vegas Track Map Colour Coded by Speed" width="80%">
 
-Specifically, the long high-speed straights and twisting low-speed corners of the Las Vegas circuit pose a large threat to the title fight. Focusing on developing a lower drag setup going into the race weekend would allow the McLaren to hold its own against overtake attempts in straight line sections whilst maintaining fairly equal performance through the lower-speed corners. The potential Las Vegas points swing, particularly in Ferrari’s favour, could be significant in the championship battle. Therefore, developments such as adjusting the angle of the louvres and cutouts on the endplates to reduce turbulent flow over the rear wing or simulating various diffusor setups to stop the ground effect unduly lowering the rake and causing excess drag on the car in the straights could help balance out the McLaren’s performance.
+Specifically, the long high-speed straights and twisting low-speed corners of the Las Vegas circuit pose a large threat to the title fight. Focusing on developing a lower drag setup going into the race weekend would allow the McLaren to hold its own against overtake attempts in straight line sections whilst maintaining fairly equal performance through the lower-speed corners.
+
+The potential Las Vegas points swing, particularly in Ferrari’s favour, could be significant in the championship battle. Therefore, developments such as adjusting the angle of the louvres and cutouts on the endplates to reduce turbulent flow over the rear wing or simulating various diffusor setups to stop the ground effect unduly lowering the rake and causing excess drag on the car in the straights could help balance out the McLaren’s performance.
 
 ## Development Focus: Rest of the Season
 
 <div style="display: flex; justify-content: space-between;">
-    <img src="visualisations/AbuDhabi_TrackSpeed.png" alt="Abu Dhabi Track Map Colour Coded by Speed" width="50%">
-    <img src="visualisations/Qatar_TrackSpeed.png" alt="Qatar Track Map Colour Coded by Speed" width="50%">
+    <img src="visualisations/AbuDhabi_TrackSpeed.png" alt="Abu Dhabi Track Map Colour Coded by Speed" width="40%">
+    <img src="visualisations/Qatar_TrackSpeed.png" alt="Qatar Track Map Colour Coded by Speed" width="40%">
 </div>
 
 For Qatar and Abu Dhabi, where medium-speed cornering is critical, retaining a higher-downforce aerodynamic setup should allow McLaren to remain competitive. As the smooth nature of both tracks may help to reduce some of the more unpredictable behaviours of competitor cars, maximising the current setup advantage on these higher downforce tracks will be essential in maintaining the points gap to the chasing teams and the lead in the constructors title fight.
