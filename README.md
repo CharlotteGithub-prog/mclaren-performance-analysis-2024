@@ -1,5 +1,6 @@
 # mclaren-performance-analysis-2024
-2024 Formula 1 season McLaren Racing performance analysis for focusing end of season car development. To view analysis outputs view 'analysis' markdown file. Plots available in 'visualisatons' directory.
+2024 Formula 1 season McLaren Racing performance analysis for focusing end of season car development.
+**To view analysis outputs view 'analysis' markdown file. Plots available in 'visualisatons' directory.**
 
 ---
 
