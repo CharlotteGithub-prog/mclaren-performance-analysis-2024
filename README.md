@@ -9,6 +9,8 @@ This repository contains an in-depth performance analysis of McLaren Racing’s 
 
 The aim of this project is to analyse McLaren's performance data across races, identifying key insights in lap times, tyre usage (future), track characteristics, aerodynamics (future), and vehicle dynamics to support data-driven improvements in car development and strategy.
 
+For discussed analysis outputs view 'visualisatons' directory.
+
 ---
 
 ## Table of Contents
@@ -72,7 +74,15 @@ mclaren-performance-analysis-2024/
 │   ├── plot_speed-heatmap_team.ipynb           # Jupyter Notebook, season speeds by team
 │   ├── plot_telemetry.ipynb                    # Jupyter Notebook, telemetry data by driver
 │   ├── plot_track-characteristics_speed.ipynb  # Jupyter Notebook, season speeds by team
+├── visualisations/                             
+│   ├── AbuDhabi_TrackSpeed.png                 # Abu Dhabi Track Speed 
+│   ├── Heatmap_McLaren_Ferrari_2024.png        # Heatmap comparing to Ferrari 2024 season
+│   ├── Heatmap_McLaren_RedBull_2024.png        # Heatmap comparing to Red Bull 2024 season
+│   ├── LasVegas_TrackSpeed.png                 # Las Vegas Track Speed 
+│   ├── Qatar_TrackSpeed.png                    # Qatar Track Speed 
+│   ├── Telem_LEC-NOR_Monza.png                 # Monza GP Leclerc vs Norris Telemetry
+│   ├── Telem_PIA-VER_Brazil.png                # São Paulo Sprint Piastri vs Verstappen Telemetry
 ├── .gitignore                                  # Intentionally untracked files
-├── 2024_season_overview.ipynb                  # Overview notebook for intial analysis
+├── 2024_season_overview.ipynb                  # Initial notebook
 ├── requirements.txt                            # Python dependencies 
 └── README.md                                   # Project readme
