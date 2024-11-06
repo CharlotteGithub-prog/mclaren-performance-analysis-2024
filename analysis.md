@@ -23,9 +23,9 @@ Looking back to the Italian Grand Prix, a very similar story can be seen between
     <img src="visualisations/Heatmap_McLaren_Ferrari_2024.png" alt="Ferrari vs McLaren 2024 Season Performance Heatmap" width="49%">
 </div>
 
-This general trend of moving competitively through the medium to high speed corners and far slower in the low-speed and straight line segments is visible across the season. Plotting a heatmap to compare speed profile by circuit of the Ferrari and Red Bull cars to the McLarens, the strength of the McLaren, particularly against the Ferrari, can be seen across the year in sections requiring the most downforce. 
+This general trend of moving competitively through the medium to high speed corners and far slower in the low-speed and straight line segments is visible across the season. Plotting a heatmap to compare speed profile by circuit of the Ferrari and Red Bull cars to the McLarens, the strength of the McLaren, particularly against the Ferrari, can be seen across the year in sections requiring the most downforce (see columns HS-Entry, HS-Apex, HS-Exit). 
 
-Conversely, both the Ferrari and Red Bull cars dominate over the McLaren in straight line speed and lower-speed cornering, where the higher drag setup leaves the McLaren lagging behind.
+Conversely, both the Ferrari and Red Bull cars dominate over the McLaren in straight line speed and lower-speed cornering, where the higher drag setup leaves the McLaren lagging behind (see column SL).
 
 ## Development Focus: Las Vegas GP
 
