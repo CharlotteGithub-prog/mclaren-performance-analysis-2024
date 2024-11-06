@@ -40,8 +40,8 @@ The potential Las Vegas points swing, particularly in Ferrari’s favour, could 
 ## Development Focus: Rest of the Season
 
 <div style="display: flex; justify-content: space-between;">
-    <img src="visualisations/AbuDhabi_TrackSpeed.png" alt="Abu Dhabi Track Map Colour Coded by Speed" width="50%">
-    <img src="visualisations/Qatar_TrackSpeed.png" alt="Qatar Track Map Colour Coded by Speed" width="50%">
+    <img src="visualisations/AbuDhabi_TrackSpeed.png" alt="Abu Dhabi Track Map Colour Coded by Speed" width="40%">
+    <img src="visualisations/Qatar_TrackSpeed.png" alt="Qatar Track Map Colour Coded by Speed" width="40%">
 </div>
 
 For Qatar and Abu Dhabi, where medium-speed cornering is critical, retaining a higher-downforce aerodynamic setup should allow McLaren to remain competitive. As the smooth nature of both tracks may help to reduce some of the more unpredictable behaviours of competitor cars, maximising the current setup advantage on these higher downforce tracks will be essential in maintaining the points gap to the chasing teams and the lead in the constructors title fight.
