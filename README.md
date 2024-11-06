@@ -65,7 +65,7 @@ This project uses data provided by the `fastf1` Python library, which fetches re
 
 ```plaintext
 mclaren-performance-analysis-2024/
-├── cache                                       # fastf1 season data cache (set up locally)
+├── cache                                       # fastf1 data cache (set up locally)
 ├── venv/                                       # virtual project environment
 │   └── ...
 ├── plots/                                      # Directory of individual analysis types
