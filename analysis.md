@@ -12,11 +12,11 @@ Using the fastf1 python package, the comparison between Piastri and Verstappenâ€
 
 A higher downforce setup allowed the McLaren to move faster through the medium-speed corners, however, the reduced drag of the Red Bull resulted in a large delta between the maximum speeds of the cars. Clearly visible in the delta trace, time gained cornering allowed Piastri to maintain a lead over Verstappen in the sprint, with the cars performing fairly equally through lower speed sections.
 
-![Verstappen vs Piastri Brazilian GP Sprint Telemetry](visualisations/Telem_PIA-VER_Brazil.png)
+![Verstappen vs Piastri Telemetry Annotated](visualisations/PIA-VER_annotated.png)
 
 Looking back to the Italian Grand Prix, a very similar story can be seen between Norris and Leclerc. Consistently faster through all sections of the higher speed corners, the aerodynamic benefits of the higher downforce setup at this circuit were clear, despite Ferrariâ€™s one stop strategy clinching them the top spot.
 
-![Norris vs Leclerc Monza GP Telemetry](visualisations/Telem_LEC-NOR_Monza.png)
+![Norris vs Leclerc Monza GP Telemetry Annotatd](visualisations/NOR-LEC_annotated.png)
 
 ## 2024 Season Profile Performance Heatmaps
 
